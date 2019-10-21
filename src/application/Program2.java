@@ -30,5 +30,6 @@ public class Program2 {
             DB.closeStatement(stmt);
             DB.closeConnection();
         }
+
     }
 }
